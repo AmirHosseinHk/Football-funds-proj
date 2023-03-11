@@ -1,0 +1,89 @@
+.newsHeader{
+    font-size: 20px;
+    font-weight: 600;
+    color: #100F0F;
+}
+
+.newsMenu{
+    margin-top: 32px;
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.News-part{
+    font-weight: 400;
+    font-size: 16px;
+    margin-right: 40px;
+    color: #a4a4a4;
+    cursor: pointer;
+}
+
+.active-news{
+    font-weight: 500;
+    color: #100F0F;
+}
+
+.news-tabselect{
+    width: 1024px;
+    height: 4px;
+    background-color: #efefef;
+    margin-top: 13px;
+    margin-bottom: 12px;
+}
+
+.news-tabselect-allnews{
+    width: 96px;
+    height: 4px;
+    background-color: #5742A9;
+}
+
+.newsBox{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+        width: 1030px;
+    height: 318px;
+}
+
+.newsBoxItem{
+    cursor: pointer;
+    width: 246px;
+    height: 318px;
+}
+
+.newsBoxItem img{
+    border-radius: 16px;
+    margin-bottom: 16px;
+}
+
+.newsboxLig{
+    color: #5742A9;
+    font-weight: 600;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.newsbox-txt{
+    width: 246px;
+    height: 95px;
+}
+
+.newsbox-txt-head{
+    font-weight: 500;
+    font-size: 16px;
+    width: 246px;
+    height: 44px;
+    margin-bottom: 8px;
+}
+
+.newbox-txt-info{
+    width: 246px;
+    height: 43px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #636363;
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}

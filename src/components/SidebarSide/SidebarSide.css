@@ -1,0 +1,119 @@
+.Sidebarside{
+    width: 72px;
+    height: 1012px;
+    background-color: #ffffff;
+    border-right: #D3D3D3 solid 1px;
+    border-bottom: 1px solid #D3D3D3;
+    
+}
+
+.MenuIcon{
+    width: 24px;
+    height: 24px;
+    color: #A4A4A4;
+    margin: 24px 24px 0 24px;
+    cursor: pointer;
+}
+
+.LocalFireDepartmentIcon{
+    margin-top: 72px;
+    margin-left: 24px;
+    margin-right: 24px;
+    color: #A4A4A4;
+    cursor: pointer;
+}
+
+.ExploreIcon{
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 32px;
+    color: #A4A4A4;
+    cursor: pointer;
+}
+
+.AiFillMessage{
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 32px;
+    color: #A4A4A4;
+    cursor: pointer;
+    width: 24px;
+    height: 24px;
+}
+
+.border-bottom{
+    border-bottom: 1px solid #A4A4A4;
+    margin-top: 56px;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+.IoIosFootball{
+    margin-top: 56px;
+    margin-left: 24px;
+    margin-right: 24px;
+    width: 24px;
+    height: 24px;
+    color: #A4A4A4;
+    cursor: pointer;
+}
+
+.FaBasketballBall{
+    margin-top: 32px;
+    margin-left: 24px;
+    margin-right: 24px;
+    padding: 1px;
+    width: 20px;
+    height: 20px;
+    color: #A4A4A4;
+    cursor: pointer;
+}
+ .RiBilliardsFill{
+    margin-top: 32px;
+    margin-left: 24px;
+    margin-right: 24px;
+    width: 24px;
+    height: 24px;
+    color: #A4A4A4;
+    cursor: pointer;
+ }
+
+ .RiPingPongFill{
+    margin-top: 32px;
+    margin-left: 24px;
+    margin-right: 24px;
+    width: 24px;
+    height: 24px;
+    color: #A4A4A4;
+    cursor: pointer;
+ }
+ .BiCycling{
+    margin-top: 32px;
+    margin-left: 24px;
+    margin-right: 24px;
+    width: 24px;
+    height: 24px;
+    color: #A4A4A4;
+    cursor: pointer;
+ }
+
+ .RiErrorWarningFill{
+    margin-top: 240px;
+    margin-left: 24px;
+    margin-right: 24px;
+    width: 24px;
+    height: 24px;
+    color: #A4A4A4;
+    cursor: pointer;
+ }
+
+ .BiSupport{
+    margin-top: 32px;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-bottom: 24px;
+    width: 24px;
+    height: 24px;
+    color: #A4A4A4;
+    cursor: pointer;
+ }

@@ -1,0 +1,67 @@
+.Platformbox{
+    background-color: #f6f6f6;
+    width: 1030px;
+    height: 350px;
+    /* margin-left: 24px; */
+    margin-top: 48px;
+    margin-bottom: 48px;
+    border-radius: 24px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.platform-txt{
+    width: 306px;
+    height: 238px;
+    margin-top: 56px;
+    margin-left: 27px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+
+.platform-txt-head{
+    font-size: 16px;
+    font-weight: 500;
+    color: #5742A9;
+    margin-bottom: 8px;
+}
+
+.platform-txt-body{
+    width: 306px;
+    height: 108px;
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 24px;
+}
+
+.platform-txt-footer-txt{
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+
+.platform-txt-footer-icons{
+    display: flex;
+    justify-content: space-between;
+    width: 267px;
+    height: 39px;
+}
+
+.platform-txt-footer-icons img{
+    cursor: pointer;
+}
+
+.platform-mobilePhone{
+    margin-left: 130px;
+}
+
+.livescore{
+    margin-right: 16px;
+    margin-top: 97px;
+}
+
+.statistic{
+    margin-top: 41px;
+}

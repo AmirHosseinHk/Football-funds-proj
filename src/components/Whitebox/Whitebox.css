@@ -1,0 +1,59 @@
+.Whitebox{
+    background-color: #ffffff;
+    height: 2938px;
+    margin-top: 24px;
+    border-radius: 16px;
+    margin-left: 24px;
+    padding-top: 32px;
+    padding-left: 24px;
+}
+
+.footballmatch-txt{
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.tablesHeaders{
+    margin-top: 32px;
+    margin-left: 15px; 
+    display: flex;
+
+}
+
+.latest-match{
+    font-weight: 500;
+    font-size: 16px;
+    color: #100F0F;
+    cursor: pointer;
+}
+
+.deactive-matche{
+    font-size: 16px;
+    font-weight: 400;
+    color: #A4A4A4;
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+.table-select-border{
+    margin-top: 13px;
+    background-color: #efefef;
+    width: 1024px;
+    height: 4px;
+    margin-bottom: 32px;
+}
+
+.table-select-sub-border{
+    background-color: #5742A9;
+    width: 133px;
+    height: 3px;
+}
+
+.seprateborder{
+    background-color: #efefef;
+    width: 1024px;
+    height: 3px;
+    margin-top: 48px;
+    margin-bottom: 48px;
+}

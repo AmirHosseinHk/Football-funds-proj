@@ -1,0 +1,59 @@
+.followClub-txt{
+    font-weight: 600;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1030px;
+    height: 24px;
+    margin-bottom: 32px;
+}
+
+.followClub-txt div{
+    color: #A4A4A4;
+    cursor: pointer;
+}
+
+.team-box{
+    width: 124px;
+    height: 124px;
+    background-color: #F6F6F6;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+}
+
+.followBox{
+    display: flex;
+    overflow: hidden;
+}
+
+.followclub-teams{
+    display: flex;
+    align-items: center;
+}
+
+.Mancity-follow{
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    border: 1px solid #5742A9;
+}
+
+.notFollowborder{
+    border-radius: 50%;
+    width: 64px;
+    height: 64px;
+}
+
+.widths{
+    width: 64px;
+    height: 64px;
+}
+
+.follow-border{
+    border-radius: 50%;
+    border: 1px solid #5742A9;
+}

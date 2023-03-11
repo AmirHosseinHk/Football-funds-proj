@@ -1,0 +1,211 @@
+.standingtxt{
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 32px;
+    display: flex;
+}
+
+.FaPlus{
+    width: 32px;
+    height: 32px;
+    color: red;
+    margin-right: 8px;
+}
+
+.ligName{
+    font-weight: 500;
+    font-size: 16px;
+    display: inline-flex;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+.viewAll{
+    color: #636363;
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 720px;
+    display: inline-flex;
+    cursor: pointer;
+}
+
+.RiArrowDropRightLine{
+    color: #636363;
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+}
+
+.firstrow{
+    padding: 8px;
+    display: flex;
+    width: 999px;
+    height: 35px;
+    color: #636363;
+    margin-top: 40px;
+    margin-right: 88px;
+}
+
+.gamesres{
+    font-weight: 400;
+    font-size: 16px;
+    margin-right: 60px;
+}
+
+.clubtxt{
+    width: 412px;
+    height: 19px;
+}
+
+.Lastmatch{
+    margin-left: 88px;
+}
+
+.englandStanding{
+    display: flex;
+    flex-direction: column;
+}
+
+.standing-rows{
+    display: flex;
+    
+    margin-top: 8px;
+    width: 1000px;
+    height: 64px;
+    border-radius: 8px;
+    align-items: center;
+}
+
+.champion{
+    background-color: #F2F0F9;
+}
+
+.europa{
+    background-color: #FEE6EB;
+}
+
+.clubstyles{
+    width: 32px;
+    height: 32px;
+}
+
+.id{
+    width: 15px;
+    height: 19px;
+    font-weight: 500;
+    font-size: 16px;
+    margin-right: 16px;
+    margin-left: 8px;
+    color: #100F0F;
+    display: flex;
+    align-items: center;
+}
+
+.clubstyles{
+    margin-right: 16px;
+}
+
+.clubName{
+    width: 334px;
+    height: 19px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #100F0F;
+    display: flex;
+    align-items: center;
+}
+
+.wins{
+    width: 60px;
+    height: 19px;
+    color: #100F0F;
+    display: flex;
+    align-items: center;
+}
+
+.draws{
+    width: 60px;
+    height: 19px;
+    color: #100F0F;
+    display: flex;
+    align-items: center;
+    margin-left: 16px;
+}
+
+.losts{
+    width: 60px;
+    height: 19px;
+    color: #100F0F;
+    display: flex;
+    align-items: center;
+    margin-left: 12px;
+}
+
+.pts{
+    margin-left: 16px;
+    width: 60px;
+    height: 19px;
+    color: #100F0F;
+    display: flex;
+    align-items: center;
+}
+
+.lastMatchs{
+    margin-left: 90px;
+    display: flex;
+    align-items: center;
+}
+
+.CheckCircleIcon{
+    color: #24A700;
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+}
+
+.DoDisturbOnIcon{
+    color: #636363;
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+}
+
+.CancelIcon{
+    color: #FF0000;
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+}
+
+.championslig{
+    display: flex;
+    align-items: center;
+}
+
+.champion-icon{
+    color: #5742A9;
+    margin-right: 10px;
+    width: 12px;
+    height: 12px;
+}
+
+.europe-icon{
+    color: #560617;
+    margin-right: 0px;
+    width: 12px;
+    height: 12px;
+}
+
+.standing-guide{
+    font-size: 14px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    margin-top: 32px;
+}
+
+.europelig{
+    display: flex;
+    align-items: center;
+    margin-left: 16px;
+}

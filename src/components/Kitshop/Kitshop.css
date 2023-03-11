@@ -1,0 +1,80 @@
+.Kitshop{
+    margin-left: 0;
+}
+
+
+.kitshop-txt{
+    font-weight: 600;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1030px;
+    height: 24px;
+    margin-bottom: 32px;
+}
+
+.kitshop-txt div{
+    color: #A4A4A4;
+    cursor: pointer;;
+}
+
+.clubkits{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 32px;
+    height: 347px;
+    overflow: hidden;
+}
+
+.clubkit-box{
+    width: 223px;
+    height: 347px;
+    display: flex;
+    flex-direction: column;
+    /* margin-left: 24px; */
+    margin-right: 24px;
+}
+
+.clubkit-imgbox{
+    width: 223px;
+    height: 282px;
+    background-color: #f6f6f6;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.clubkit-imgbox img{
+    width: 164px;
+    height: 234px;
+}
+
+.clubkit-infobox{
+    width: 223px;
+    height: 49px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: 16px;
+}
+
+.clubkit-infobox-txt{
+    color: #100F0F;
+    font-weight: 500;
+    font-size: 16px;
+    width: 223px;
+    height: 19px;
+}
+
+.clubkit-infobox-price{
+    color: #5742A9;
+    font-weight: 500;
+    font-size: 18px;
+    width: 223px;
+    height: 22px;
+    margin-top: 8px;
+}

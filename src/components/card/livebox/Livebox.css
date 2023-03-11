@@ -1,0 +1,129 @@
+.Livebox{
+    margin-left: 24px;
+    width: 301px;
+    height: 356px;
+    background-color: #ffffff;
+    border-radius: 16px;
+    padding: 26px 22px;
+}
+
+.livematch{
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+}
+
+.playtime{
+    font-weight: 500;
+    font-size: 14px;
+    margin-top: 6px;
+    color: #096A00;
+    text-align: center;
+}
+
+.flags{
+    margin-top: 20px;
+    display: flex;
+
+}
+
+.Morocco{
+        /* border-radius: 50%; */
+    width: 56px;
+    height: 56px;
+}
+
+.matchresalt{
+    margin-left: 32px;
+    margin-right: 32px;
+    background-color: rgba(87, 66, 169, 0.102);
+    padding: 6px 16px;
+    color: #5742A9;
+    width: 81px;
+    height: 38px;
+    border-radius: 50px;
+    margin-top: 9px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.stats{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.stats-txt{
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 8px;
+    text-align: center;
+    color: #100F0F;
+}
+
+.stats-num{
+    display: flex;
+    justify-content: space-between;
+}
+
+.stats-num-left{
+    color: #5742A9;
+    
+}
+
+.stats-num-right{
+    color: #560617;
+
+}
+
+.border-left{
+    width: 123px;
+    height: 4px;
+    background: rgba(87, 66, 169, 0.2);
+    border-radius: 3px;
+}
+
+.sub-border-stats-avg-shot-left{
+    background-color: #5742A9;
+    width: 84px;
+    height: 3px;
+    border-radius: 3px;
+    margin-left: 39px;
+}
+
+.border-right{
+    width: 123px;
+    height: 4px;
+    background-color: rgba(86, 6, 23,.2);
+    border-radius: 3px;
+}
+
+.sub-border-stats-avg-shot-right{
+    background-color: #560617;
+    width: 40px;
+    height: 3px;
+    border-radius: 3px;
+
+}
+
+.stats-avg-dad{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sub-border-stats-avg-shoot-left{
+    background-color: #5742A9;
+    width: 104px;
+    height: 3px;
+    border-radius: 3px;
+    margin-left: 19px;
+}
+
+.sub-border-stats-avg-shoot-right{
+    background-color: #560617;
+    width: 84px;
+    height: 3px;
+    border-radius: 3px;
+
+}
